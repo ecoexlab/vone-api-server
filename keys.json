@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vone-order",
+  "private_key_id": "af322867b9e2af268199ed42c29f457d078a6a4d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCkimkr8Gcsy6QD\nzvBZdcbgSeLnUKEDYk1SIIzZV52qdkUReWLn5H8ntaGC8ejqbfHe9fCJXELcNF39\nGNFo/8AfQOCoDbPtUPVmeAREjEN7xj+0r0Q+c6HHQMmkCK0rgFYjmcqkFbuAdsZ3\n/eRLrzcMV5/8wOiMEh5PEdF3FVQa8H1Pj8Hkn6L2gJB0Lhi0MYXIEmntqwSzxfpw\nz3w8Y6z1a60JuTrJsgSNk1BD+x0SikcLUu/0igIYblibVNlq9kQKiCNoQrMfxh+m\nGFC7DTVw6XTIqV6U88uJVnix6fSiWVk+sn/yDsgCbNljgy/+3p/7AFDk1OlDgl/e\nQHL4wbk9AgMBAAECggEAD71BtDdJ10ofhVG9QgF3JatLri7TSByWIt4EOyIbbdvk\nXXiMEnyUATtpmLoFOq+LrHVALhOKPcAwoW5HUdDtEtBE7S5qYLAW2VdvqRL1vZhI\nLcN6NrMe7Y1v/GXsErYzBzLF5I5DolU6RO4fcXHwRRj4r9fQJt3w0kV1EPwUUIM7\nFvXwVPQ0tlqCwY+t0C93cFE2TO1rl2ZKeJXvy+nmOMUi6FDI5VIlMMDqzqXpMlRY\nERQfx/7gLm2WC6n63JpVGS9qcKmeZ1N/w/Uj2Me4YWy5MD75Dn1b+Ebd7r4Pc/I3\n/L26r0IGkk9ymqdSOrjV2Nst+uA9pgCrjdhz09qPQQKBgQDokGJt9dZePi33OZYE\nnl/H5sXu3Sv+QVPcY8NAIwhSbVCdBQ3w1Q5MjaDBrP8v4LyyfV4YTee86Jc+ikwg\nf779HBDIXKhIIdjAnGEwXp5P7uVyVmIF96/zvFn8hMFkjjCD9oYqxPnsJr3rm1t0\nCTAKv6ZJInG2bg8LXotTRbq/TQKBgQC1Hy5WOVSdMD+a+1zE/eDI3634te8ESkSh\nq4PeQ6zbQoG8sdNhje+HsfJUdQ+dou/oNb5AJR3VFH1duKoLGPwosRwaUTnWozGl\nImzFtW6lGpL938DHlljF435VpK9viETuUOH+e2qe/72Xp6clma0W8GqysiqpCy1v\n62QzVDDJsQKBgCw8mpxz8KzIgxHNoF2MioeJvAithVq9rmfzigY/I6waIwVbGsW+\noROqtPNiJsBCrWH+OtHAr93dGDfLMqPT6M5YclDKXzApUAODO3Fp7g8iT/6ps8eS\nz6M7JprD3c10xoGzeN3Vzfw/ekzApmqx/LNutQCgTqT21mHBQBs83kLZAoGAZZKb\n+Mzj79cMBI0spGi/88bFGLJm3WANByFZrX8EZF3yxfBv28iuaMnZXZXccQncQrxI\n+k4WYdXAzJtv+RNE7kkMupGMvxr8D2Cz4VhzOXIitu8RfJyLIkcHJV5a6FBiX8fK\nRV3PGGXRXEgwC30YPcIMBDS4id5z180Jf2OajLECgYAsVovp3ZDtPHydaWbiUfJP\n1U8IrDVrFeIHsXswUt7Ut12XuNczSe7QzamkBKaug5qJk3WOzELVjleAG1nQGha4\nTyROhGTS/bgJKvBmdDYdwWWfXBrcoXjy5t7V2vonVH7Yk6iGUtzsZmV0AR+09EB5\n24QTHQyzxmL9s0TgDsi2zw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vone-admin@vone-order.iam.gserviceaccount.com",
+  "client_id": "114706709358965729432",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vone-admin%40vone-order.iam.gserviceaccount.com"
+}
